@@ -20,7 +20,7 @@ This project is structured into three modules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Guwoop00/TicTacToe
    cd tic-tac-toe
 
 2. Create a virtual environment (optional):
